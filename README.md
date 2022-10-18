@@ -20,5 +20,5 @@ Here we will apply the knowledge that we have acquired during the learning of th
 -----------------------------
 **Authors**
 =========
-- [Jose Marulanda](https://github.com/JoseMarulanda).
-- [Marcela Sanchez](https://github.com/marcewp15).
+- [Alebiosu Opeyemi](https://github.com/AlepsGitHub).
+- [Vincent]
